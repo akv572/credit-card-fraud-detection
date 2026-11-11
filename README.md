@@ -7,7 +7,7 @@ decision thresholds tuned by cross validation.
 
 ## Background
 
-This repository is a clean room reimplementation of my graduate project
+This repository is a clean room reimplementation of my undergraduate project
 **Securing Transactions**, which processed 280,000+ real transactions with
 logistic regression, random forest and KNN, reaching 92% precision through
 class weight balancing on the imbalanced data. The code here rebuilds that
